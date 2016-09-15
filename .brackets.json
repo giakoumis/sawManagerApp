@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/sawManagerApp/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js"
+    ]
+}
